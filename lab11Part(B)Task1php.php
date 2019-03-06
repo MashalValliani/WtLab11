@@ -19,4 +19,4 @@ if(!empty($_POST["remember"])) {
  }
 ?>
  
-<p><a href="page.php"> Go to Login Page </a> </p>
+<p><a href="lab11Part(B)Task1html.html"> Go to Login Page </a> </p>
